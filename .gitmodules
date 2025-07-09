@@ -1,0 +1,6 @@
+[submodule "track-jobs-backend"]
+	path = track-jobs-backend
+	url = https://github.com/bevanlewis/track-jobs-backend
+[submodule "track-jobs-extension"]
+	path = track-jobs-extension
+	url = https://github.com/bevanlewis/track-jobs-extension
